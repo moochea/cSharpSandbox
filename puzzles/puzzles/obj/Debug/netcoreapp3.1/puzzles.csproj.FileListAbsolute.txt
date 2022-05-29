@@ -1,0 +1,14 @@
+H:\git-projects\cSharpSandbox\puzzles\puzzles\bin\Debug\netcoreapp3.1\puzzles.exe
+H:\git-projects\cSharpSandbox\puzzles\puzzles\bin\Debug\netcoreapp3.1\puzzles.deps.json
+H:\git-projects\cSharpSandbox\puzzles\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.json
+H:\git-projects\cSharpSandbox\puzzles\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.dev.json
+H:\git-projects\cSharpSandbox\puzzles\puzzles\bin\Debug\netcoreapp3.1\puzzles.dll
+H:\git-projects\cSharpSandbox\puzzles\puzzles\bin\Debug\netcoreapp3.1\puzzles.pdb
+H:\git-projects\cSharpSandbox\puzzles\puzzles\obj\Debug\netcoreapp3.1\puzzles.csproj.AssemblyReference.cache
+H:\git-projects\cSharpSandbox\puzzles\puzzles\obj\Debug\netcoreapp3.1\puzzles.GeneratedMSBuildEditorConfig.editorconfig
+H:\git-projects\cSharpSandbox\puzzles\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfoInputs.cache
+H:\git-projects\cSharpSandbox\puzzles\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfo.cs
+H:\git-projects\cSharpSandbox\puzzles\puzzles\obj\Debug\netcoreapp3.1\puzzles.csproj.CoreCompileInputs.cache
+H:\git-projects\cSharpSandbox\puzzles\puzzles\obj\Debug\netcoreapp3.1\puzzles.dll
+H:\git-projects\cSharpSandbox\puzzles\puzzles\obj\Debug\netcoreapp3.1\puzzles.pdb
+H:\git-projects\cSharpSandbox\puzzles\puzzles\obj\Debug\netcoreapp3.1\puzzles.genruntimeconfig.cache
